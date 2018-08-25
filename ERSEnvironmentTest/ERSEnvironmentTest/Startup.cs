@@ -16,7 +16,7 @@ namespace ERSEnvironmentTest
     {
         public Startup(IConfiguration configuration)
         {
-            //GIT ROCKS!
+            //This code was edited in Github
             Configuration = configuration;
         }
 
