@@ -7,5 +7,12 @@ namespace ERSEnvironmentTest
 {
     public class Feature1
     {
+        public int Sum()
+        {
+            int x = 1;
+            int y = 2;
+            int z = x + y;
+            return z;
+        }
     }
 }
