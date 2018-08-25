@@ -9,9 +9,9 @@ namespace ERSEnvironmentTest
     {
         public int Sum()
         {
-            int x = 1;
-            int y = 2;
-            int z = x + y;
+            var x = 1;
+            var y = 2;
+            var z = x + y;
             return z;
         }
     }
