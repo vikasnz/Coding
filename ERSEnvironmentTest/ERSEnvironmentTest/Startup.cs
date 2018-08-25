@@ -17,6 +17,7 @@ namespace ERSEnvironmentTest
         public Startup(IConfiguration configuration)
         {
             //This code was edited in Github
+            //Added feature1
             Configuration = configuration;
         }
 
