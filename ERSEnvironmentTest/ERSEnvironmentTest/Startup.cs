@@ -17,6 +17,7 @@ namespace ERSEnvironmentTest
         public Startup(IConfiguration configuration)
         {
             //add comments
+            //GITHUB rocks
             Configuration = configuration;
         }
 
